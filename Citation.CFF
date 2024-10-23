@@ -3,7 +3,7 @@ title: FTEs per studying student, doctoral candidate and article at Dutch univer
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
-type: data
+type: software
 authors:
   - given-names: Daan Benjamin
     family-names: Boltje
@@ -19,6 +19,6 @@ abstract: >-
 keywords:
   - "FTE"
   - "Dutch university"
-  - data
+  - software
 license: CC-BY-4.0
 date-released: '2024-10-23'
