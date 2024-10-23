@@ -14,12 +14,11 @@ version: 0.1
 repository: 'https://github.com/hoogenboom-group/SF'
 url: 'https://github.com/hoogenboom-group/SF'
 abstract: >-
-  An online interactive tool to plot the axial re-scaling 
-  factor versus imaging depth and compare to depth 
-  independent scaling theories.
+  FTEs per studying student, doctoral candidate  
+  and article at Dutch universities.
 keywords:
-  - "axial scaling"
-  - "optical microscope"
+  - "FTE"
+  - "Dutch universities"
   - software
 license: CC-BY-4.0
-date-released: '2023-06-23'
+date-released: '2024-10-23'
